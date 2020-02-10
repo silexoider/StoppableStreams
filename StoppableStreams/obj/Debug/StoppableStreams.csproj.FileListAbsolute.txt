@@ -1,0 +1,5 @@
+D:\Documents\visual studio 2015\Projects\StoppableStreams\StoppableStreams\bin\Debug\StoppableStreams.dll
+D:\Documents\visual studio 2015\Projects\StoppableStreams\StoppableStreams\bin\Debug\StoppableStreams.pdb
+D:\Documents\visual studio 2015\Projects\StoppableStreams\StoppableStreams\obj\Debug\StoppableStreams.csprojResolveAssemblyReference.cache
+D:\Documents\visual studio 2015\Projects\StoppableStreams\StoppableStreams\obj\Debug\StoppableStreams.dll
+D:\Documents\visual studio 2015\Projects\StoppableStreams\StoppableStreams\obj\Debug\StoppableStreams.pdb

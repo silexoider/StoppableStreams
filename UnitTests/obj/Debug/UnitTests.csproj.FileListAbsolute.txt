@@ -1,0 +1,6 @@
+D:\Documents\visual studio 2015\Projects\StoppableStreams\UnitTests\bin\Debug\UnitTests.dll
+D:\Documents\visual studio 2015\Projects\StoppableStreams\UnitTests\bin\Debug\UnitTests.pdb
+D:\Documents\visual studio 2015\Projects\StoppableStreams\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Documents\visual studio 2015\Projects\StoppableStreams\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Documents\visual studio 2015\Projects\StoppableStreams\UnitTests\obj\Debug\UnitTests.dll
+D:\Documents\visual studio 2015\Projects\StoppableStreams\UnitTests\obj\Debug\UnitTests.pdb
